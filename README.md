@@ -1,1 +1,107 @@
-<h1 align="left"> <span style=" background: linear-gradient(90deg, #7B2CBF, #9D4EDD, #C77DFF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 800; letter-spacing: 1px; "> 𝗢𝗹á, 𝘀𝗲𝗷𝗮 𝗯𝗲𝗺 𝘃𝗶𝗻𝗱𝗼(𝗮) 𝗮𝗼 𝗺𝗲𝘂 𝗽𝗲𝗿𝗳𝗶𝗹 𝗱𝗼 𝗚𝗶𝘁𝗵𝘂𝗯! </span> </h1> <!-- Mario alinhado --> <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Mario" min-width="300px" max-width="300px" width="300px" align="right" /> <p> <span style="color:#C77DFF; font-size:18px;"> 𝙊𝙡á 𝙢𝙚 𝙘𝙝𝙖𝙢𝙤 <strong style="color:#E0AAFF;"> 𝙅𝙤ã𝙤 𝙋𝙚𝙙𝙧𝙤 𝘽𝙖𝙨𝙩𝙤𝙨 𝙙𝙤𝙨 𝙍𝙚𝙞𝙨 </strong>. </span> <br><br> <span style="color:#E0AAFF;"> 𝙎𝙤𝙪 𝙣𝙖𝙩𝙪𝙧𝙖𝙡 𝙙𝙚 𝙅𝙪𝙞𝙯 𝙙𝙚 𝙁𝙤𝙧𝙖 (𝙈𝙂). </span><br> <span style="color:#C77DFF;"> 𝘼𝙩𝙪𝙖𝙡𝙢𝙚𝙣𝙩𝙚, 𝙚𝙨𝙩𝙤𝙪 𝙣𝙤 3º 𝙖𝙣𝙤 𝙙𝙤 𝙀𝙣𝙨𝙞𝙣𝙤 𝙈é𝙙𝙞𝙤 𝙚 𝙘𝙪𝙧𝙨𝙤 𝙩é𝙘𝙣𝙞𝙘𝙤 𝙚𝙢 𝘼𝙣á𝙡𝙞𝙨𝙚 𝙚 𝘿𝙚𝙨𝙚𝙣𝙫𝙤𝙡𝙫𝙞𝙢𝙚𝙣𝙩𝙤 𝙙𝙚 𝙎𝙞𝙨𝙩𝙚𝙢𝙖𝙨 𝙥𝙚𝙡𝙖 𝙋𝙧𝙤𝙯, 𝙘𝙤𝙣𝙘𝙞𝙡𝙞𝙖𝙣𝙙𝙤 𝙚𝙨𝙩𝙪𝙙𝙤𝙨 𝙚 𝙩𝙧𝙖𝙗𝙖𝙡𝙝𝙤. </span><br> <span style="color:#9D4EDD;"> 𝙏𝙚𝙣𝙝𝙤 𝙛𝙤𝙘𝙤 𝙚𝙢 𝙙𝙚𝙨𝙚𝙣𝙫𝙤𝙡𝙫𝙞𝙢𝙚𝙣𝙩𝙤 𝙛𝙧𝙤𝙣𝙩-𝙚𝙣𝙙 𝙚 𝙣𝙖 𝙘𝙧𝙞𝙖çã𝙤 𝙙𝙚 𝙥𝙧𝙤𝙟𝙚𝙩𝙤𝙨, 𝙗𝙪𝙨𝙘𝙖𝙣𝙙𝙤 𝙚𝙫𝙤𝙡𝙪çã𝙤 𝙘𝙤𝙣𝙨𝙩𝙖𝙣𝙩𝙚 𝙥𝙖𝙧𝙖 𝙢𝙚 𝙩𝙤𝙧𝙣𝙖𝙧 𝙪𝙢 𝙙𝙚𝙨𝙚𝙣𝙫𝙤𝙡𝙫𝙚𝙙𝙤𝙧 𝙛𝙪𝙡𝙡 𝙨𝙩𝙖𝙘𝙠. </span> </p> --- ## Tech Stack ![HTML5](https://img.shields.io/badge/html5-6A0DAD?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-7B2CBF?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-9D4EDD?style=for-the-badge&logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/python-5A189A?style=for-the-badge&logo=python&logoColor=white) ![GitHub](https://img.shields.io/badge/github-3C096C?style=for-the-badge&logo=github&logoColor=white) --- ## Contatos [![Gmail](https://img.shields.io/badge/-Gmail-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bastos.program@gmail.com) [![Instagram](https://img.shields.io/badge/-Instagram-9D4EDD?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_reis.jf/) [![GitHub](https://img.shields.io/badge/-GitHub-3C096C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/debugbastos)
+<!-- ===================== HEADER ===================== -->
+
+<h1 align="center">
+  <span style="color:#E50914;">
+    GABRIEL GALVÃO
+  </span>
+</h1>
+
+<p align="center">
+  <strong>Estudante de Análise e Desenvolvimento de Sistemas</strong>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=E50914&height=2&section=header" width="100%" />
+</p>
+
+<br>
+
+<!-- ===================== SOBRE MIM ===================== -->
+
+## Sobre mim
+
+<p align="left">
+  Olá! Meu nome é <strong>Gabriel Galvão</strong>, tenho 16 anos e sou estudante de Análise e Desenvolvimento de Sistemas.
+</p>
+
+<p align="left">
+  Sou apaixonado por tecnologia e pelo processo de transformar ideias em soluções através da programação. Atualmente, estou direcionando meus estudos para o desenvolvimento <strong>Front-end</strong>, buscando aprimorar minhas habilidades na criação de interfaces modernas, funcionais e intuitivas.
+</p>
+
+<p align="left">
+  Meu objetivo é me especializar em Front-end e, ao longo da minha jornada, evoluir para um desenvolvedor <strong>Full Stack</strong>, expandindo meus conhecimentos em diferentes áreas do desenvolvimento de software.
+</p>
+
+<br>
+
+<!-- ===================== ATUALMENTE ===================== -->
+
+## Atualmente
+
+- Estudando Análise e Desenvolvimento de Sistemas.
+- Aprimorando conhecimentos em desenvolvimento Front-end.
+- Explorando novas tecnologias e ferramentas.
+- Desenvolvendo projetos para colocar meus conhecimentos em prática.
+- Construindo minha base para me tornar um desenvolvedor Full Stack.
+
+<br>
+
+<!-- ===================== TECH STACK ===================== -->
+
+## Tech Stack
+
+### Front-end
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-0D0D0D?style=for-the-badge&logo=html5&logoColor=E50914" />
+  <img src="https://img.shields.io/badge/CSS3-0D0D0D?style=for-the-badge&logo=css3&logoColor=E50914" />
+  <img src="https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=E50914" />
+</p>
+
+### Outras tecnologias
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=E50914" />
+  <img src="https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=E50914" />
+  <img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=E50914" />
+</p>
+
+<br>
+
+<!-- ===================== OBJETIVOS ===================== -->
+
+## Objetivo profissional
+
+<p align="left">
+  Desenvolver uma carreira sólida na área de tecnologia, começando pelo Front-end e expandindo meus conhecimentos para me tornar um desenvolvedor Full Stack.
+</p>
+
+<br>
+
+<!-- ===================== CONTATOS ===================== -->
+
+## Contatos
+
+<p align="left">
+  <a href="mailto:bastos.program@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=E50914" />
+  </a>
+  <a href="https://www.instagram.com/_reis.jf/">
+    <img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=E50914" />
+  </a>
+  <a href="https://github.com/debugbastos">
+    <img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=E50914" />
+  </a>
+</p>
+
+<br>
+
+<!-- ===================== FOOTER ===================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=E50914&height=2&section=footer" width="100%" />
+</p>
+
+<p align="center">
+  <sub>Construindo conhecimento, um projeto por vez.</sub>
+</p>
